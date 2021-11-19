@@ -1,2 +1,2 @@
 # shapesOpenGL
-triangle in Open GL
+triangle in Open GL tutorial freeCodeCamp.org
